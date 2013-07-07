@@ -1,0 +1,7 @@
+C:\Users\Ralf Westphal\Documents\GitHub\dnp2013\Heckle Service\appharbor\HeckleService\HeckleService\bin\HeckleService.dll
+C:\Users\Ralf Westphal\Documents\GitHub\dnp2013\Heckle Service\appharbor\HeckleService\HeckleService\bin\HeckleService.pdb
+C:\Users\Ralf Westphal\Documents\GitHub\dnp2013\Heckle Service\appharbor\HeckleService\HeckleService\bin\Nancy.dll
+C:\Users\Ralf Westphal\Documents\GitHub\dnp2013\Heckle Service\appharbor\HeckleService\HeckleService\bin\Nancy.Hosting.Aspnet.dll
+C:\Users\Ralf Westphal\Documents\GitHub\dnp2013\Heckle Service\appharbor\HeckleService\HeckleService\obj\Debug\HeckleService.csprojResolveAssemblyReference.cache
+C:\Users\Ralf Westphal\Documents\GitHub\dnp2013\Heckle Service\appharbor\HeckleService\HeckleService\obj\Debug\HeckleService.dll
+C:\Users\Ralf Westphal\Documents\GitHub\dnp2013\Heckle Service\appharbor\HeckleService\HeckleService\obj\Debug\HeckleService.pdb
